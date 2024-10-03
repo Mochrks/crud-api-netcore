@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=dotnet,postgresql" alt="Tech Stack Icons" />
 </p>
 
 ## Overview
