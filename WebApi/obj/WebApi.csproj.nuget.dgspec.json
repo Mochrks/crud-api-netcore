@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\06. MOCHRKS EXPLORASI CODING\\net core\\project-crud-web-api\\01. Github\\WebApi\\WebApi.csproj": {}
+    "D:\\06. MOCHRKS Z- API PORTO CODING\\.NET CORE - project-crud-web-api\\01. Github\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "D:\\06. MOCHRKS EXPLORASI CODING\\net core\\project-crud-web-api\\01. Github\\WebApi\\WebApi.csproj": {
+    "D:\\06. MOCHRKS Z- API PORTO CODING\\.NET CORE - project-crud-web-api\\01. Github\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\06. MOCHRKS EXPLORASI CODING\\net core\\project-crud-web-api\\01. Github\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "D:\\06. MOCHRKS Z- API PORTO CODING\\.NET CORE - project-crud-web-api\\01. Github\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "D:\\06. MOCHRKS EXPLORASI CODING\\net core\\project-crud-web-api\\01. Github\\WebApi\\WebApi.csproj",
+        "projectPath": "D:\\06. MOCHRKS Z- API PORTO CODING\\.NET CORE - project-crud-web-api\\01. Github\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "D:\\06. MOCHRKS EXPLORASI CODING\\net core\\project-crud-web-api\\01. Github\\WebApi\\obj\\",
+        "outputPath": "D:\\06. MOCHRKS Z- API PORTO CODING\\.NET CORE - project-crud-web-api\\01. Github\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config"

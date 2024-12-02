@@ -2,7 +2,7 @@
 <h1 align="center">.NET Core CRUD API - Order, Product, User</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/.NET_Core-5.0-blueviolet" alt=".NET Core Version" />
+  <img src="https://img.shields.io/badge/.NET_Core-8.0-blueviolet" alt=".NET Core Version" />
   <img src="https://img.shields.io/badge/Swagger-Enabled-brightgreen" alt="Swagger Enabled" />
   
 </p>
@@ -27,7 +27,7 @@ This is a **CRUD API** built with **.NET Core** to manage **Orders**, **Products
 
 ## Tech Stack
 
-- **.NET Core 5.0**
+- **.NET Core 8.0**
 - **Entity Framework Core** (Code-First Approach)
 - **PostgreSQL r** as the database
 - **Swagger** for API documentation

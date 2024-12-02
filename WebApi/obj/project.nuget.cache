@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T6gmlGb+86dIYjlEjtI9rGCbtFjSi4/fEc6D+ZVN+HkU0c3my1xNzDf9m4r+ITOHefZPDp45woEer8zY0rbeIg==",
+  "dgSpecHash": "udCwIqzdj71FcHejjjotlXNAYpWOnCI6wopgLIR3hsk4U05cqRcHllNRbLnQ5U5Qp1HBQUn5bX37FYc8z9tp8A==",
   "success": true,
-  "projectFilePath": "D:\\06. MOCHRKS EXPLORASI CODING\\net core\\project-crud-web-api\\01. Github\\WebApi\\WebApi.csproj",
+  "projectFilePath": "D:\\06. MOCHRKS Z- API PORTO CODING\\.NET CORE - project-crud-web-api\\01. Github\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\acer\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\acer\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
